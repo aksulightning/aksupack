@@ -7,7 +7,7 @@ Do not press "Clone or download".
 
 Click that version, what you want to use.
 
-V2.0.8
+V2.0.8 - Only 1.12.2 compatible.
 
 https://github.com/aksulightning/aksupack/raw/master/aksupack-v2.0.8.zip
 
