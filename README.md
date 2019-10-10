@@ -5,7 +5,13 @@ You can get the old versions from here.
 
 Do not press "Clone or download".
 
-Click that version, what you want to use and press Download.
+Click that version, what you want to use.
+
+V2.0.8
+
+https://github.com/aksulightning/aksupack/raw/master/aksupack-v2.0.8.zip
+
+
 
 # Please, follow the license and Terms of Use for using the Aksupack.
 
