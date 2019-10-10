@@ -1,5 +1,5 @@
-# aksupack
-You can get the latest beta versions and experimental versions from here.
+# Aksupack Archive
+You can get the old versions from here.
 
 # Quick start
 
