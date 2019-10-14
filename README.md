@@ -7,14 +7,17 @@ Do not press "Clone or download".
 
 Click that version, what you want to use.
 
+V2.1.1 - Only 1.13 to 1.14.4 compatible.
+
+https://www.planetminecraft.com/texture_pack/aksucraft-11-texture-pack-fin/
 
 V2.1 - Only 1.13 to 1.14.4 compatible.
 
-https://github.com/aksulightning/aksupack/raw/master/aksupack_v2.1.zip
+https://github.com/aksulightning/aksupack/releases/tag/v2.1
 
 V2.0.8 - Only 1.12.2 compatible.
 
-https://github.com/aksulightning/aksupack/raw/master/aksupack-v2.0.8.zip
+https://github.com/aksulightning/aksupack/releases/tag/v2.0.8
 
 
 
