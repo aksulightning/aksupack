@@ -3,7 +3,7 @@ You can get the old versions from here.
 
 # Quick start
 
-Do not press "Clone or download".
+Do not press "Clone or download" or "Code".
 
 Click that version, what you want to use.
 
